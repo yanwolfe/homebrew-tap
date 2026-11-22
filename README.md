@@ -3,12 +3,12 @@
 Install AutoQuit with:
 
 ```bash
-brew tap vikng-dev/tap
+brew tap yanwolfe/tap
 brew install --cask autoquit
 ```
 
 Install Sluice with:
 
 ```bash
-brew install --cask vikng-dev/tap/sluice
+brew install --cask yanwolfe/tap/sluice
 ```
