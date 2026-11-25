@@ -1,6 +1,6 @@
 cask "sluice" do
-  version "1.2.2"
-  sha256 "ea78dd39a67ccdfcdb81f9031079485af0b5b103fab28b658f803807b0fbeac3"
+  version "1.2.3"
+  sha256 "734d0acc5430b117c9143ab07349841f0fbabc3c043160d2828ef147b252fb07"
 
   url "https://github.com/yanwolfe/sluice/releases/download/v#{version}/Sluice-v#{version}-macos.zip"
   name "Sluice"
